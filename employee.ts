@@ -10,4 +10,5 @@ export class Employee {
     add(): void {
         this.employees.push({ _id: 1, name: "Parik" });
     }
+    // 1
 }
