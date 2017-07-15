@@ -8,5 +8,7 @@ interface Iemp {
 export class Employee {
     employees: Iemp[];
 
-    
+    add(): void {
+        
+    }
 }
